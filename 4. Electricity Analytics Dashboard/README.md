@@ -7,7 +7,7 @@
 ## POWER BI DASHBOARD
 
 <p align="center">
-  <img src="Electricity Analytics Dashboard Pic.png" width="1100" height="800"/>
+  <img src="Dashboard Pic.png" width="1100" height="800"/>
 </p>
 
 ### 📂 Data Overview & Statistical Foundation      
