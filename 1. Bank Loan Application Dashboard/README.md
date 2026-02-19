@@ -1,6 +1,6 @@
 ## 🏦 Bank Loan Data Analysis & Risk Modeling
 ### 🎯  Data Engineering & Processing
-* *rocessed 14,384 & 38,576 loan records with 28 structured attributes.*
+* *Processed 14,384 & 38,576 loan records with 28 structured attributes.*
 * *Cleaned 459 missing employment entries; standardized date/time fields for analysis.*
 * *ETL & Schema Engineering: Built Power Query pipelines, optimized data types for high-performance analytics.*
 * *Feature Engineering: Created numerical (Loan_Amount, Annual_Income, Int_Rate, DTI), categorical (Loan_Status, Grade, Purpose), and temporal features.*
